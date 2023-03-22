@@ -1,0 +1,14 @@
+// TELA DE ENTRADA LOGUIN E SENHA
+      Escreval("                                                                          Ver 0.8")
+      Escreval("              ------------|   RPG DE MERDA   |------------")
+      Escreval
+      Escreval ("                    _______________________________")
+      Escreval ("                     C R I E    S U A    C O N T A")
+      Escreval ("                    (บบบบบบบบบบบบบ||||บบบบบบบบบบบบ)")
+      
+               Escreva ("= LOGUIN: ")
+               Leia (Loguin)
+               Escreva ("= SENHA: ")
+               Leia (Senha)
+
+                         Limpatela
